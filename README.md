@@ -6,7 +6,8 @@ Socials:      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?sty
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taiwo.the.techie@gmail.com)](mailto:taiwo.the.techie@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-fe5c8f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/t_moyoyo/)]((https://www.instagram.com/t_moyoyo/))
   [![Medium Badge](https://img.shields.io/badge/-Medium-cccccc?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@taiwo.the.techie)]((https://medium.com/@taiwo.the.techie))
-  
+
+  <br>
 
 - 🔭 I’m currently working on cloud and web projects
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
@@ -22,7 +23,8 @@ Socials:      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?sty
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-bottom:10px; padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<div>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -40,12 +42,12 @@ Socials:      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?sty
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />        
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />  
 <img align="left" alt="tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-        
+</div><br/><br/><br/><br/><br/><br/>
+
 #
 
-<br>
 <details>
 <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 I started from CS50!
