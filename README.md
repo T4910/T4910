@@ -16,6 +16,7 @@ Socials:      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?sty
 - 🤝 Seeking for apprenticeships or internships
 - 🌱 Currently learning about cloud computing
 
+<br/>
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=T4910&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   
