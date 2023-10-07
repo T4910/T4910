@@ -45,7 +45,7 @@ Socials:      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?sty
 <img align="left" alt="C++" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />  
 <img align="left" alt="tailwind" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</div><br/><br/><br/><br/><br/><br/>
+</div><br/><br/><br/><br/>
 
 #
 
